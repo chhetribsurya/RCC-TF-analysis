@@ -1,2 +1,2 @@
-# RCC-TF Method and Analysis
-Determining risk transcription factors associated to Renal Cell Carncinoma
+#
+Script and analysis used in determining risk transcription factors associated to Renal Cell Carncinoma
