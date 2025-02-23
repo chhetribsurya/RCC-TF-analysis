@@ -1,2 +1,2 @@
 #
-Scripts and analysis used in determining risk transcription factors associated to Renal Cell Carncinoma using multi-omics data
+Scripts and analysis used in determining risk transcription factors associated to Renal Cell Carncinoma
