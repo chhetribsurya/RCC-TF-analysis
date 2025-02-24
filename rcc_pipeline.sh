@@ -26,14 +26,3 @@ for bedfile in ${bedfile_list}/redo_bed/*.bed; do
         #done
     #done
 done
-
-#https://unix.stackexchange.com/questions/490649/pairwise-combinations-of-filenames
-#https://unix.stackexchange.com/questions/338635/create-combinations-of-elements-from-a-vector-to-give-as-input-in-a-program
-#declare -a encode_ids=(ENCFF002CDP ENCFF002COQ ENCFF002DAJ ENCFF002DCM)
-#[schhetr1@login03 RCC_TF_Project]$ for i in ${encode_ids[@]}; do for j in ${encode_ids[@]}; do if [ "$i" \< "$j" ]; then echo "Pairs $i and $j";fi;done;done
-#Pairs ENCFF002CDP and ENCFF002COQ
-#Pairs ENCFF002CDP and ENCFF002DAJ
-#Pairs ENCFF002CDP and ENCFF002DCM
-#Pairs ENCFF002COQ and ENCFF002DAJ
-#Pairs ENCFF002COQ and ENCFF002DCM
-#Pairs ENCFF002DAJ and ENCFF002DCM
